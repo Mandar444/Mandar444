@@ -57,11 +57,13 @@
 
 ---
 
-### 🔥 Currently Working On
+### 🔥 Recently Built
 
-- 🎂 A virtual birthday party web app with camera, cake cutting & photo capture (hosted on Vercel)
-- 🛡️ Practicing ethical hacking & building secure full-stack apps
-- 🚀 Sharpening React, Node.js, and WebRTC skills
+- 🚀 **Raise AI** – An AI-powered Resume Builder that helps users generate smart, professional resumes in seconds using GPT.
+  - 🧠 Built with: React, Node.js, OpenAI API
+  - 🌐 Hosted on Vercel
+  - 🎯 Focused on clean UI/UX + instant resume downloads
+  - 💡 Designed to help job seekers stand out
 
 ---
 
