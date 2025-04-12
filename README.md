@@ -27,7 +27,7 @@
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mandar-shinde-42aa912b9)
-- ✉️ mandar.your@email.here (replace with real one!)
+- ✉️ mandarshinde627@email.here (replace with real one!)
 - 🌍 Portfolio coming soon...
 
 ---
